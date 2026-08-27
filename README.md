@@ -5,10 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xcastalax/)
 
 #### Hello stranger! Welcome to my github profile!. 
-### I am a full stack developer.  
+### I am a Software Engineer.  
 
  #### 🔭 I’m working in some web2 & web3 projects.
-#### 🌱 I'm currently shapping my programming skills with Rust. 
+#### 🌱 I'm currently exploring the AI & Cybersecurity field. 
 #### ⚡ Fun fact: I am a former SAP consultant who managed to escape from that world!.  
 
 
